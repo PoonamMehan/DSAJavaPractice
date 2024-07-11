@@ -64,6 +64,7 @@ public class ArrayPractice{
             }
         }
     }
+    
     public static void main(String args[]){
         // int arr[] = {3, 55, 66, 77, 84, 94, 100, 222, 444};
         int arr[] = {1, 2, 3, 4};
@@ -72,5 +73,6 @@ public class ArrayPractice{
         // reverseTheArray(arr);
         // findPairs(arr);
         // printSubarray(arr);
+
     }
 }
